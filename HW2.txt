@@ -1,0 +1,4 @@
+1.  There are 106 instances of 12 in nums.txt.  There are 91 instances of 10 in nums.txt.  There are 99 instances of 87 in nums.txt.  I used the following command to answer this question:
+	grep -o -w 'insertNumber' ~/nums.txt | wc -w
+
+2.
